@@ -873,7 +873,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       var MSG_EXTERNAL_aboutMe$$SRC_APP_ABOUT_ABOUT_COMPONENT_TS_1 = goog.getMsg("About me");
       I18N_0 = MSG_EXTERNAL_aboutMe$$SRC_APP_ABOUT_ABOUT_COMPONENT_TS_1;
     } else {
-      I18N_0 = $localize(_templateObject());
+      I18N_0 = "About me";
     }
 
     var I18N_2;
@@ -885,7 +885,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       var MSG_EXTERNAL_yearsOld$$SRC_APP_ABOUT_ABOUT_COMPONENT_TS_3 = goog.getMsg("years old");
       I18N_2 = MSG_EXTERNAL_yearsOld$$SRC_APP_ABOUT_ABOUT_COMPONENT_TS_3;
     } else {
-      I18N_2 = $localize(_templateObject2());
+      I18N_2 = "years old";
     }
 
     var _c4 = function _c4(a1) {
@@ -1661,7 +1661,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       var MSG_EXTERNAL_successfulSubmit$$SRC_APP_CONTACT_CONTACT_COMPONENT_TS_1 = goog.getMsg("Thank you for contacting me, I'll reply to you very soon.");
       I18N_0 = MSG_EXTERNAL_successfulSubmit$$SRC_APP_CONTACT_CONTACT_COMPONENT_TS_1;
     } else {
-      I18N_0 = $localize(_templateObject3());
+      I18N_0 = "Thank you for contacting me, I'll reply to you very soon.";
     }
 
     var I18N_2;
@@ -1673,7 +1673,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       var MSG_EXTERNAL_errorSubmit$$SRC_APP_CONTACT_CONTACT_COMPONENT_TS_3 = goog.getMsg("Sorry, there is an instability, try again later, or contact me via email or social media.");
       I18N_2 = MSG_EXTERNAL_errorSubmit$$SRC_APP_CONTACT_CONTACT_COMPONENT_TS_3;
     } else {
-      I18N_2 = $localize(_templateObject4());
+      I18N_2 = "Sorry, there is an instability, try again later, or contact me via email or social media.";
     }
 
     var I18N_4;
@@ -1685,7 +1685,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       var MSG_EXTERNAL_contact$$SRC_APP_CONTACT_CONTACT_COMPONENT_TS_5 = goog.getMsg("Contact");
       I18N_4 = MSG_EXTERNAL_contact$$SRC_APP_CONTACT_CONTACT_COMPONENT_TS_5;
     } else {
-      I18N_4 = $localize(_templateObject5());
+      I18N_4 = "Contact";
     }
 
     var I18N_6;
@@ -1697,7 +1697,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       var MSG_EXTERNAL_name$$SRC_APP_CONTACT_CONTACT_COMPONENT_TS_7 = goog.getMsg("Your name:");
       I18N_6 = MSG_EXTERNAL_name$$SRC_APP_CONTACT_CONTACT_COMPONENT_TS_7;
     } else {
-      I18N_6 = $localize(_templateObject6());
+      I18N_6 = "Your name:";
     }
 
     var I18N_8;
@@ -1709,7 +1709,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       var MSG_EXTERNAL_namePlaceholder$$SRC_APP_CONTACT_CONTACT_COMPONENT_TS_9 = goog.getMsg("John");
       I18N_8 = MSG_EXTERNAL_namePlaceholder$$SRC_APP_CONTACT_CONTACT_COMPONENT_TS_9;
     } else {
-      I18N_8 = $localize(_templateObject7());
+      I18N_8 = "Mark";
     }
 
     var _c10 = ["placeholder", I18N_8];
@@ -1722,7 +1722,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       var MSG_EXTERNAL_email$$SRC_APP_CONTACT_CONTACT_COMPONENT_TS_12 = goog.getMsg("Email:");
       I18N_11 = MSG_EXTERNAL_email$$SRC_APP_CONTACT_CONTACT_COMPONENT_TS_12;
     } else {
-      I18N_11 = $localize(_templateObject8());
+      I18N_11 = "Email:";
     }
 
     var I18N_13;
@@ -1734,7 +1734,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       var MSG_EXTERNAL_emailPlaceholder$$SRC_APP_CONTACT_CONTACT_COMPONENT_TS_14 = goog.getMsg("john@gmail.com");
       I18N_13 = MSG_EXTERNAL_emailPlaceholder$$SRC_APP_CONTACT_CONTACT_COMPONENT_TS_14;
     } else {
-      I18N_13 = $localize(_templateObject9());
+      I18N_13 = "mark@gmail.com";
     }
 
     var _c15 = ["placeholder", I18N_13];
@@ -1747,7 +1747,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       var MSG_EXTERNAL_message$$SRC_APP_CONTACT_CONTACT_COMPONENT_TS_17 = goog.getMsg("Your message:");
       I18N_16 = MSG_EXTERNAL_message$$SRC_APP_CONTACT_CONTACT_COMPONENT_TS_17;
     } else {
-      I18N_16 = $localize(_templateObject10());
+      I18N_16 = "Your Message:";
     }
 
     var I18N_18;
@@ -1759,7 +1759,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       var MSG_EXTERNAL_messagePlaceholder$$SRC_APP_CONTACT_CONTACT_COMPONENT_TS_19 = goog.getMsg("Write here your message... I will reply to you soon.");
       I18N_18 = MSG_EXTERNAL_messagePlaceholder$$SRC_APP_CONTACT_CONTACT_COMPONENT_TS_19;
     } else {
-      I18N_18 = $localize(_templateObject11());
+      I18N_18 = "Write here your message... I will reply to you soon.";
     }
 
     var _c20 = ["placeholder", I18N_18];
@@ -1772,7 +1772,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       var MSG_EXTERNAL_send$$SRC_APP_CONTACT_CONTACT_COMPONENT_TS_22 = goog.getMsg("Send");
       I18N_21 = MSG_EXTERNAL_send$$SRC_APP_CONTACT_CONTACT_COMPONENT_TS_22;
     } else {
-      I18N_21 = $localize(_templateObject12());
+      I18N_21 = "Send";
     }
 
     var _c23 = ["value", I18N_21];
@@ -1896,7 +1896,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       var MSG_EXTERNAL_requiredNameError$$SRC_APP_CONTACT_CONTACT_COMPONENT_TS___25 = goog.getMsg("The name is required.");
       I18N_24 = MSG_EXTERNAL_requiredNameError$$SRC_APP_CONTACT_CONTACT_COMPONENT_TS___25;
     } else {
-      I18N_24 = $localize(_templateObject13());
+      I18N_24 = "The name is required.";
     }
 
     function ContactComponent_div_30_small_1_Template(rf, ctx) {
@@ -1918,7 +1918,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       var MSG_EXTERNAL_invalidNameError$$SRC_APP_CONTACT_CONTACT_COMPONENT_TS___27 = goog.getMsg("Please, provide a valid name.");
       I18N_26 = MSG_EXTERNAL_invalidNameError$$SRC_APP_CONTACT_CONTACT_COMPONENT_TS___27;
     } else {
-      I18N_26 = $localize(_templateObject14());
+      I18N_26 = "Please, provide a valid name.";
     }
 
     function ContactComponent_div_30_small_2_Template(rf, ctx) {
@@ -1964,7 +1964,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       var MSG_EXTERNAL_requiredEmailError$$SRC_APP_CONTACT_CONTACT_COMPONENT_TS___29 = goog.getMsg("The email is required.");
       I18N_28 = MSG_EXTERNAL_requiredEmailError$$SRC_APP_CONTACT_CONTACT_COMPONENT_TS___29;
     } else {
-      I18N_28 = $localize(_templateObject15());
+      I18N_28 = "The email is required.";
     }
 
     function ContactComponent_div_36_small_1_Template(rf, ctx) {
@@ -1986,7 +1986,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       var MSG_EXTERNAL_invalidEmailError$$SRC_APP_CONTACT_CONTACT_COMPONENT_TS___31 = goog.getMsg("Please, provide a valid email address.");
       I18N_30 = MSG_EXTERNAL_invalidEmailError$$SRC_APP_CONTACT_CONTACT_COMPONENT_TS___31;
     } else {
-      I18N_30 = $localize(_templateObject16());
+      I18N_30 = "Please, provide a valid email address.";
     }
 
     function ContactComponent_div_36_small_2_Template(rf, ctx) {
@@ -2032,7 +2032,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       var MSG_EXTERNAL_requiredMessageError$$SRC_APP_CONTACT_CONTACT_COMPONENT_TS___33 = goog.getMsg("The message is required.");
       I18N_32 = MSG_EXTERNAL_requiredMessageError$$SRC_APP_CONTACT_CONTACT_COMPONENT_TS___33;
     } else {
-      I18N_32 = $localize(_templateObject17());
+      I18N_32 = "The message is required.";
     }
 
     function ContactComponent_div_42_small_1_Template(rf, ctx) {
@@ -3793,7 +3793,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       var MSG_EXTERNAL_experiences$$SRC_APP_EXPERIENCE_EXPERIENCE_COMPONENT_TS_2 = goog.getMsg("Experiences");
       I18N_1 = MSG_EXTERNAL_experiences$$SRC_APP_EXPERIENCE_EXPERIENCE_COMPONENT_TS_2;
     } else {
-      I18N_1 = $localize(_templateObject18());
+      I18N_1 = "Experiences";
     }
 
     var I18N_3;
@@ -3805,7 +3805,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       var MSG_EXTERNAL_previous$$SRC_APP_EXPERIENCE_EXPERIENCE_COMPONENT_TS_4 = goog.getMsg("Previous");
       I18N_3 = MSG_EXTERNAL_previous$$SRC_APP_EXPERIENCE_EXPERIENCE_COMPONENT_TS_4;
     } else {
-      I18N_3 = $localize(_templateObject19());
+      I18N_3 = "Previous";
     }
 
     var _c5 = ["title", I18N_3];
@@ -3818,7 +3818,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       var MSG_EXTERNAL_previous$$SRC_APP_EXPERIENCE_EXPERIENCE_COMPONENT_TS_7 = goog.getMsg("Previous");
       I18N_6 = MSG_EXTERNAL_previous$$SRC_APP_EXPERIENCE_EXPERIENCE_COMPONENT_TS_7;
     } else {
-      I18N_6 = $localize(_templateObject20());
+      I18N_6 = "Previous";
     }
 
     var I18N_8;
@@ -3830,7 +3830,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       var MSG_EXTERNAL_next$$SRC_APP_EXPERIENCE_EXPERIENCE_COMPONENT_TS_9 = goog.getMsg("Next");
       I18N_8 = MSG_EXTERNAL_next$$SRC_APP_EXPERIENCE_EXPERIENCE_COMPONENT_TS_9;
     } else {
-      I18N_8 = $localize(_templateObject21());
+      I18N_8 = "Next";
     }
 
     var I18N_10;
@@ -3842,7 +3842,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       var MSG_EXTERNAL_next$$SRC_APP_EXPERIENCE_EXPERIENCE_COMPONENT_TS_11 = goog.getMsg("Next");
       I18N_10 = MSG_EXTERNAL_next$$SRC_APP_EXPERIENCE_EXPERIENCE_COMPONENT_TS_11;
     } else {
-      I18N_10 = $localize(_templateObject22());
+      I18N_10 = "Next";
     }
 
     var _c12 = ["title", I18N_10];
@@ -3855,7 +3855,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       var MSG_EXTERNAL_previous$$SRC_APP_EXPERIENCE_EXPERIENCE_COMPONENT_TS_14 = goog.getMsg("Previous");
       I18N_13 = MSG_EXTERNAL_previous$$SRC_APP_EXPERIENCE_EXPERIENCE_COMPONENT_TS_14;
     } else {
-      I18N_13 = $localize(_templateObject23());
+      I18N_13 = "Previous";
     }
 
     var _c15 = ["title", I18N_13];
@@ -3868,7 +3868,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       var MSG_EXTERNAL_next$$SRC_APP_EXPERIENCE_EXPERIENCE_COMPONENT_TS_17 = goog.getMsg("Next");
       I18N_16 = MSG_EXTERNAL_next$$SRC_APP_EXPERIENCE_EXPERIENCE_COMPONENT_TS_17;
     } else {
-      I18N_16 = $localize(_templateObject24());
+      I18N_16 = "Next";
     }
 
     var _c18 = ["title", I18N_16];
@@ -4837,7 +4837,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       });
       I18N_2 = MSG_EXTERNAL_aboutMe$$SRC_APP_HEADER_HEADER_COMPONENT_TS_3;
     } else {
-      I18N_2 = $localize(_templateObject25(), "\uFFFD#12\uFFFD", "\uFFFD/#12\uFFFD");
+      I18N_2 = "About me";
     }
 
     var I18N_4;
@@ -4852,7 +4852,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       });
       I18N_4 = MSG_EXTERNAL_experiences$$SRC_APP_HEADER_HEADER_COMPONENT_TS_5;
     } else {
-      I18N_4 = $localize(_templateObject26(), "\uFFFD#16\uFFFD", "\uFFFD/#16\uFFFD");
+      I18N_4 = "Experiences";
     }
 
     var I18N_6;
@@ -4867,7 +4867,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       });
       I18N_6 = MSG_EXTERNAL_projects$$SRC_APP_HEADER_HEADER_COMPONENT_TS_7;
     } else {
-      I18N_6 = $localize(_templateObject27(), "\uFFFD#20\uFFFD", "\uFFFD/#20\uFFFD");
+      I18N_6 = "Projects";
     }
 
     var I18N_8;
@@ -4882,7 +4882,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       });
       I18N_8 = MSG_EXTERNAL_contact$$SRC_APP_HEADER_HEADER_COMPONENT_TS_9;
     } else {
-      I18N_8 = $localize(_templateObject28(), "\uFFFD#24\uFFFD", "\uFFFD/#24\uFFFD");
+      I18N_8 = "Contact";
     }
 
     var I18N_10;
@@ -4894,7 +4894,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       var MSG_EXTERNAL_open_as_pdf$$SRC_APP_HEADER_HEADER_COMPONENT_TS_11 = goog.getMsg("Open Resume as PDF");
       I18N_10 = MSG_EXTERNAL_open_as_pdf$$SRC_APP_HEADER_HEADER_COMPONENT_TS_11;
     } else {
-      I18N_10 = $localize(_templateObject29());
+      I18N_10 = "Open Resume as PDF";
     }
 
     var _c12 = ["title", I18N_10];
@@ -5364,7 +5364,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       var MSG_EXTERNAL_of$$SRC_APP_PROJECTS_PROJECTS_CAROUSEL_PROJECTS_CAROUSEL_COMPONENT_TS_1 = goog.getMsg("of");
       I18N_0 = MSG_EXTERNAL_of$$SRC_APP_PROJECTS_PROJECTS_CAROUSEL_PROJECTS_CAROUSEL_COMPONENT_TS_1;
     } else {
-      I18N_0 = $localize(_templateObject30());
+      I18N_0 = "of";
     }
 
     var I18N_2;
@@ -5376,7 +5376,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       var MSG_EXTERNAL_projects$$SRC_APP_PROJECTS_PROJECTS_CAROUSEL_PROJECTS_CAROUSEL_COMPONENT_TS_3 = goog.getMsg("projects");
       I18N_2 = MSG_EXTERNAL_projects$$SRC_APP_PROJECTS_PROJECTS_CAROUSEL_PROJECTS_CAROUSEL_COMPONENT_TS_3;
     } else {
-      I18N_2 = $localize(_templateObject31());
+      I18N_2 = "Projects";
     }
 
     var I18N_4;
@@ -5388,7 +5388,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       var MSG_EXTERNAL_readMore$$SRC_APP_PROJECTS_PROJECTS_CAROUSEL_PROJECTS_CAROUSEL_COMPONENT_TS__5 = goog.getMsg("Read more");
       I18N_4 = MSG_EXTERNAL_readMore$$SRC_APP_PROJECTS_PROJECTS_CAROUSEL_PROJECTS_CAROUSEL_COMPONENT_TS__5;
     } else {
-      I18N_4 = $localize(_templateObject32());
+      I18N_4 = "Read more";
     }
 
     function ProjectsCarouselComponent_li_4_Template(rf, ctx) {
@@ -5789,7 +5789,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       var MSG_EXTERNAL_projects$$SRC_APP_PROJECTS_PROJECTS_COMPONENT_TS_1 = goog.getMsg("Projects");
       I18N_0 = MSG_EXTERNAL_projects$$SRC_APP_PROJECTS_PROJECTS_COMPONENT_TS_1;
     } else {
-      I18N_0 = $localize(_templateObject33());
+      I18N_0 = "Projects";
     }
 
     var I18N_2;
@@ -5801,7 +5801,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       var MSG_EXTERNAL_previous$$SRC_APP_PROJECTS_PROJECTS_COMPONENT_TS_3 = goog.getMsg("Previous");
       I18N_2 = MSG_EXTERNAL_previous$$SRC_APP_PROJECTS_PROJECTS_COMPONENT_TS_3;
     } else {
-      I18N_2 = $localize(_templateObject34());
+      I18N_2 = "Previous";
     }
 
     var _c4 = ["title", I18N_2];
@@ -5814,7 +5814,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       var MSG_EXTERNAL_previous$$SRC_APP_PROJECTS_PROJECTS_COMPONENT_TS_6 = goog.getMsg("Previous");
       I18N_5 = MSG_EXTERNAL_previous$$SRC_APP_PROJECTS_PROJECTS_COMPONENT_TS_6;
     } else {
-      I18N_5 = $localize(_templateObject35());
+      I18N_5 = "Previous";
     }
 
     var I18N_7;
@@ -5826,7 +5826,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       var MSG_EXTERNAL_next$$SRC_APP_PROJECTS_PROJECTS_COMPONENT_TS_8 = goog.getMsg("Next");
       I18N_7 = MSG_EXTERNAL_next$$SRC_APP_PROJECTS_PROJECTS_COMPONENT_TS_8;
     } else {
-      I18N_7 = $localize(_templateObject36());
+      I18N_7 = "Next";
     }
 
     var I18N_9;
@@ -5838,7 +5838,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       var MSG_EXTERNAL_next$$SRC_APP_PROJECTS_PROJECTS_COMPONENT_TS_10 = goog.getMsg("Next");
       I18N_9 = MSG_EXTERNAL_next$$SRC_APP_PROJECTS_PROJECTS_COMPONENT_TS_10;
     } else {
-      I18N_9 = $localize(_templateObject37());
+      I18N_9 = "Next";
     }
 
     var _c11 = ["title", I18N_9];
@@ -5851,7 +5851,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       var MSG_EXTERNAL_synopsis$$SRC_APP_PROJECTS_PROJECTS_COMPONENT_TS_13 = goog.getMsg("Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vulputate sagittis velit, eget scelerisque arcu semper finibus.");
       I18N_12 = MSG_EXTERNAL_synopsis$$SRC_APP_PROJECTS_PROJECTS_COMPONENT_TS_13;
     } else {
-      I18N_12 = $localize(_templateObject38());
+      I18N_12 = "In countless times, an article or a simple piece of information saved me hours of research, so whenever is possible, I try to do my humble contributions:";
     }
 
     var _c14 = function _c14(a0) {
@@ -7034,7 +7034,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       var MSG_EXTERNAL_hello$$SRC_APP_WELCOME_WELCOME_DIALOG_WELCOME_DIALOG_COMPONENT_TS_1 = goog.getMsg("Hello!");
       I18N_0 = MSG_EXTERNAL_hello$$SRC_APP_WELCOME_WELCOME_DIALOG_WELCOME_DIALOG_COMPONENT_TS_1;
     } else {
-      I18N_0 = $localize(_templateObject39());
+      I18N_0 = "Hello!";
     }
 
     var _c2 = function _c2() {

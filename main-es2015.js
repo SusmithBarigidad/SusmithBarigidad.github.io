@@ -222,7 +222,7 @@ if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
     I18N_0 = MSG_EXTERNAL_aboutMe$$SRC_APP_ABOUT_ABOUT_COMPONENT_TS_1;
 }
 else {
-    I18N_0 = $localize `:nav@@aboutMe␟1f3e393d5483be2d063bee208dbaa462793a59cd␟3562199946446423606:About me`;
+    I18N_0 = "About me";
 }
 var I18N_2;
 if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
@@ -233,7 +233,7 @@ if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
     I18N_2 = MSG_EXTERNAL_yearsOld$$SRC_APP_ABOUT_ABOUT_COMPONENT_TS_3;
 }
 else {
-    I18N_2 = $localize `:about@@yearsOld␟77280729e57b6f62675100eec0a0e00d8ec4fa5e␟2509424109113872121:years old`;
+    I18N_2 = "years old";
 }
 const _c4 = function (a1) { return ["fas", a1]; };
 function AboutComponent_fa_icon_27_Template(rf, ctx) { if (rf & 1) {
@@ -623,7 +623,7 @@ if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
     I18N_0 = MSG_EXTERNAL_successfulSubmit$$SRC_APP_CONTACT_CONTACT_COMPONENT_TS_1;
 }
 else {
-    I18N_0 = $localize `:contact@@successfulSubmit␟90838a03700282a0b032981a76d2139e51374649␟6695289924857055202:Thank you for contacting me, I'll reply to you very soon.`;
+    I18N_0 = "Thank you for contacting me, I'll reply to you very soon.";
 }
 var I18N_2;
 if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
@@ -634,7 +634,7 @@ if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
     I18N_2 = MSG_EXTERNAL_errorSubmit$$SRC_APP_CONTACT_CONTACT_COMPONENT_TS_3;
 }
 else {
-    I18N_2 = $localize `:contact@@errorSubmit␟6d154dca814252bd197e82e3287987e9dd41b635␟4389788925549600330:Sorry, there is an instability, try again later, or contact me via email or social media.`;
+    I18N_2 = "Sorry, there is an instability, try again later, or contact me via email or social media.";
 }
 var I18N_4;
 if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
@@ -645,7 +645,7 @@ if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
     I18N_4 = MSG_EXTERNAL_contact$$SRC_APP_CONTACT_CONTACT_COMPONENT_TS_5;
 }
 else {
-    I18N_4 = $localize `:nav@@contact␟34746fb1c7f3d2194d99652bdff89e6e14c9c4f4␟7922989125096435449:Contact`;
+    I18N_4 = "Contact";
 }
 var I18N_6;
 if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
@@ -656,7 +656,7 @@ if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
     I18N_6 = MSG_EXTERNAL_name$$SRC_APP_CONTACT_CONTACT_COMPONENT_TS_7;
 }
 else {
-    I18N_6 = $localize `:contact@@name␟78235c38d8f083b2e3b27c168b92fc389f22d5ea␟7961815355441875063:Your name:`;
+    I18N_6 = "Your name:";
 }
 var I18N_8;
 if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
@@ -667,7 +667,7 @@ if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
     I18N_8 = MSG_EXTERNAL_namePlaceholder$$SRC_APP_CONTACT_CONTACT_COMPONENT_TS_9;
 }
 else {
-    I18N_8 = $localize `:contact@@namePlaceholder␟27502f41821d8d4341ce6ec9124c263e06f242f1␟6987388674475678589:John`;
+    I18N_8 = "Mark";
 }
 const _c10 = ["placeholder", I18N_8];
 var I18N_11;
@@ -679,7 +679,7 @@ if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
     I18N_11 = MSG_EXTERNAL_email$$SRC_APP_CONTACT_CONTACT_COMPONENT_TS_12;
 }
 else {
-    I18N_11 = $localize `:contact@@email␟91b96d7228b6e05c238fa4e39abfc17ad51a6eef␟6631334172623029500:Email:`;
+    I18N_11 = "Email:";
 }
 var I18N_13;
 if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
@@ -690,7 +690,7 @@ if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
     I18N_13 = MSG_EXTERNAL_emailPlaceholder$$SRC_APP_CONTACT_CONTACT_COMPONENT_TS_14;
 }
 else {
-    I18N_13 = $localize `:contact@@emailPlaceholder␟e8b0cb056fc64e3e64ab1247e5bd45a858ebd957␟8129207404443811297:john@gmail.com`;
+    I18N_13 = "mark@gmail.com";
 }
 const _c15 = ["placeholder", I18N_13];
 var I18N_16;
@@ -702,7 +702,7 @@ if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
     I18N_16 = MSG_EXTERNAL_message$$SRC_APP_CONTACT_CONTACT_COMPONENT_TS_17;
 }
 else {
-    I18N_16 = $localize `:contact@@message␟38b9c0422f08a662cb5cf4e2c3b7b006dc19ca46␟7108908926006173610:Your message:`;
+    I18N_16 = "Your Message:";
 }
 var I18N_18;
 if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
@@ -713,7 +713,7 @@ if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
     I18N_18 = MSG_EXTERNAL_messagePlaceholder$$SRC_APP_CONTACT_CONTACT_COMPONENT_TS_19;
 }
 else {
-    I18N_18 = $localize `:contact@@messagePlaceholder␟5dbab65c47e2519c192302f4cd631f8f763d32a0␟4695044849168425148:Write here your message... I will reply to you soon.`;
+    I18N_18 = "Write here your message... I will reply to you soon.";
 }
 const _c20 = ["placeholder", I18N_18];
 var I18N_21;
@@ -725,7 +725,7 @@ if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
     I18N_21 = MSG_EXTERNAL_send$$SRC_APP_CONTACT_CONTACT_COMPONENT_TS_22;
 }
 else {
-    I18N_21 = $localize `:contact@@send␟2c5ff8fa9c9aaec93f97e37c9a0edcd797194573␟6490688569532630280:Send`;
+    I18N_21 = "Send";
 }
 const _c23 = ["value", I18N_21];
 function ContactComponent_p_18_Template(rf, ctx) { if (rf & 1) {
@@ -792,7 +792,7 @@ if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
     I18N_24 = MSG_EXTERNAL_requiredNameError$$SRC_APP_CONTACT_CONTACT_COMPONENT_TS___25;
 }
 else {
-    I18N_24 = $localize `:contact@@requiredNameError␟84dd68358deff2c306c9e1f1e1ea36ac1399187f␟2251827586065267500:The name is required.`;
+    I18N_24 = "The name is required.";
 }
 function ContactComponent_div_30_small_1_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "small", 43);
@@ -808,7 +808,7 @@ if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
     I18N_26 = MSG_EXTERNAL_invalidNameError$$SRC_APP_CONTACT_CONTACT_COMPONENT_TS___27;
 }
 else {
-    I18N_26 = $localize `:contact@@invalidNameError␟563120cc8523ffbb5f3bdf377adae708bcfc7782␟8310581068201003485:Please, provide a valid name.`;
+    I18N_26 = "Please, provide a valid name.";
 }
 function ContactComponent_div_30_small_2_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "small", 43);
@@ -836,7 +836,7 @@ if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
     I18N_28 = MSG_EXTERNAL_requiredEmailError$$SRC_APP_CONTACT_CONTACT_COMPONENT_TS___29;
 }
 else {
-    I18N_28 = $localize `:contact@@requiredEmailError␟02e28ad299c02273b0031dd65a1facf425b771c3␟6618823522652189267:The email is required.`;
+    I18N_28 = "The email is required.";
 }
 function ContactComponent_div_36_small_1_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "small", 43);
@@ -852,7 +852,7 @@ if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
     I18N_30 = MSG_EXTERNAL_invalidEmailError$$SRC_APP_CONTACT_CONTACT_COMPONENT_TS___31;
 }
 else {
-    I18N_30 = $localize `:contact@@invalidEmailError␟18ede2f6adb0ef80114915c53dca42cb0c6a986f␟3304023609309135379:Please, provide a valid email address.`;
+    I18N_30 = "Please, provide a valid email address.";
 }
 function ContactComponent_div_36_small_2_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "small", 43);
@@ -880,7 +880,7 @@ if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
     I18N_32 = MSG_EXTERNAL_requiredMessageError$$SRC_APP_CONTACT_CONTACT_COMPONENT_TS___33;
 }
 else {
-    I18N_32 = $localize `:contact@@requiredMessageError␟24552e065fcea281bd42c77a67fb5932a27edbdf␟1849854291408426034:The message is required.`;
+    I18N_32 = "The message is required.";
 }
 function ContactComponent_div_42_small_1_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "small", 43);
@@ -1803,7 +1803,7 @@ if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
     I18N_1 = MSG_EXTERNAL_experiences$$SRC_APP_EXPERIENCE_EXPERIENCE_COMPONENT_TS_2;
 }
 else {
-    I18N_1 = $localize `:nav@@experiences␟e7e0306bc19b679cb5d1bf586d6bd02fffb8c78f␟1824510134640326733:Experiences`;
+    I18N_1 = "Experiences";
 }
 var I18N_3;
 if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
@@ -1814,7 +1814,7 @@ if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
     I18N_3 = MSG_EXTERNAL_previous$$SRC_APP_EXPERIENCE_EXPERIENCE_COMPONENT_TS_4;
 }
 else {
-    I18N_3 = $localize `:exp.nav@@previous␟680d5c75b7fd8d37961083608b9fcdc4167b4c43␟4452427314943113135:Previous`;
+    I18N_3 = "Previous";
 }
 const _c5 = ["title", I18N_3];
 var I18N_6;
@@ -1826,7 +1826,7 @@ if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
     I18N_6 = MSG_EXTERNAL_previous$$SRC_APP_EXPERIENCE_EXPERIENCE_COMPONENT_TS_7;
 }
 else {
-    I18N_6 = $localize `:exp.nav@@previous␟680d5c75b7fd8d37961083608b9fcdc4167b4c43␟4452427314943113135:Previous`;
+    I18N_6 = "Previous";
 }
 var I18N_8;
 if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
@@ -1837,7 +1837,7 @@ if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
     I18N_8 = MSG_EXTERNAL_next$$SRC_APP_EXPERIENCE_EXPERIENCE_COMPONENT_TS_9;
 }
 else {
-    I18N_8 = $localize `:exp.nav@@next␟f732c304c7433e5a83ffcd862c3dce709a0f4982␟3885497195825665706:Next`;
+    I18N_8 = "Next";
 }
 var I18N_10;
 if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
@@ -1848,7 +1848,7 @@ if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
     I18N_10 = MSG_EXTERNAL_next$$SRC_APP_EXPERIENCE_EXPERIENCE_COMPONENT_TS_11;
 }
 else {
-    I18N_10 = $localize `:exp.nav@@next␟f732c304c7433e5a83ffcd862c3dce709a0f4982␟3885497195825665706:Next`;
+    I18N_10 = "Next";
 }
 const _c12 = ["title", I18N_10];
 var I18N_13;
@@ -1860,7 +1860,7 @@ if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
     I18N_13 = MSG_EXTERNAL_previous$$SRC_APP_EXPERIENCE_EXPERIENCE_COMPONENT_TS_14;
 }
 else {
-    I18N_13 = $localize `:exp.nav@@previous␟680d5c75b7fd8d37961083608b9fcdc4167b4c43␟4452427314943113135:Previous`;
+    I18N_13 = "Previous";
 }
 const _c15 = ["title", I18N_13];
 var I18N_16;
@@ -1872,7 +1872,7 @@ if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
     I18N_16 = MSG_EXTERNAL_next$$SRC_APP_EXPERIENCE_EXPERIENCE_COMPONENT_TS_17;
 }
 else {
-    I18N_16 = $localize `:exp.nav@@next␟f732c304c7433e5a83ffcd862c3dce709a0f4982␟3885497195825665706:Next`;
+    I18N_16 = "Next";
 }
 const _c18 = ["title", I18N_16];
 function ExperienceComponent_li_43_span_32_Template(rf, ctx) { if (rf & 1) {
@@ -2353,7 +2353,7 @@ if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
     I18N_2 = MSG_EXTERNAL_aboutMe$$SRC_APP_HEADER_HEADER_COMPONENT_TS_3;
 }
 else {
-    I18N_2 = $localize `:nav@@aboutMe␟0c13ed142b2445758e753691dde293f1475c2f35␟4875492424371875416:${"\uFFFD#12\uFFFD"}:START_TAG_SPAN:About me${"\uFFFD/#12\uFFFD"}:CLOSE_TAG_SPAN:`;
+    I18N_2 = "About me";
 }
 var I18N_4;
 if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
@@ -2364,7 +2364,7 @@ if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
     I18N_4 = MSG_EXTERNAL_experiences$$SRC_APP_HEADER_HEADER_COMPONENT_TS_5;
 }
 else {
-    I18N_4 = $localize `:nav@@experiences␟5fd3cd5fdef1df646b693d8916ff67fbab463f1c␟4512657944717229643:${"\uFFFD#16\uFFFD"}:START_TAG_SPAN:Experiences${"\uFFFD/#16\uFFFD"}:CLOSE_TAG_SPAN:`;
+    I18N_4 = "Experiences";
 }
 var I18N_6;
 if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
@@ -2375,7 +2375,7 @@ if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
     I18N_6 = MSG_EXTERNAL_projects$$SRC_APP_HEADER_HEADER_COMPONENT_TS_7;
 }
 else {
-    I18N_6 = $localize `:nav@@projects␟35c99d959ec2c482a1b2910228c6fbf93e9ae08f␟811077579287290632:${"\uFFFD#20\uFFFD"}:START_TAG_SPAN:Projects${"\uFFFD/#20\uFFFD"}:CLOSE_TAG_SPAN:`;
+    I18N_6 = "Projects";
 }
 var I18N_8;
 if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
@@ -2386,7 +2386,7 @@ if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
     I18N_8 = MSG_EXTERNAL_contact$$SRC_APP_HEADER_HEADER_COMPONENT_TS_9;
 }
 else {
-    I18N_8 = $localize `:nav@@contact␟70b4f26e29bfeacd38974c054e3a4fe925da00ad␟886825848084977844:${"\uFFFD#24\uFFFD"}:START_TAG_SPAN:Contact${"\uFFFD/#24\uFFFD"}:CLOSE_TAG_SPAN:`;
+    I18N_8 = "Contact";
 }
 var I18N_10;
 if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
@@ -2397,7 +2397,7 @@ if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
     I18N_10 = MSG_EXTERNAL_open_as_pdf$$SRC_APP_HEADER_HEADER_COMPONENT_TS_11;
 }
 else {
-    I18N_10 = $localize `:nav@@open.as.pdf␟b656b39704aa388939be18cf921da9cb3974279c␟7857151276634971709:Open Resume as PDF`;
+    I18N_10 = "Open Resume as PDF";
 }
 const _c12 = ["title", I18N_10];
 const _c13 = function (a0) { return { "active": a0 }; };
@@ -2628,7 +2628,7 @@ if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
     I18N_0 = MSG_EXTERNAL_of$$SRC_APP_PROJECTS_PROJECTS_CAROUSEL_PROJECTS_CAROUSEL_COMPONENT_TS_1;
 }
 else {
-    I18N_0 = $localize `:projects@@of␟169eed2bc3e08e1bea977bcc5d799379f6b8a758␟5881876145178332550:of`;
+    I18N_0 = "of";
 }
 var I18N_2;
 if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
@@ -2639,7 +2639,7 @@ if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
     I18N_2 = MSG_EXTERNAL_projects$$SRC_APP_PROJECTS_PROJECTS_CAROUSEL_PROJECTS_CAROUSEL_COMPONENT_TS_3;
 }
 else {
-    I18N_2 = $localize `:nav@@projects␟aea5e5ca7572f826234e136490a87fbf81d529bd␟3836000317327860441:projects`;
+    I18N_2 = "Projects";
 }
 var I18N_4;
 if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
@@ -2650,7 +2650,7 @@ if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
     I18N_4 = MSG_EXTERNAL_readMore$$SRC_APP_PROJECTS_PROJECTS_CAROUSEL_PROJECTS_CAROUSEL_COMPONENT_TS__5;
 }
 else {
-    I18N_4 = $localize `:projects@@readMore␟10f056dd9fa3ce236f04efd38ed65b33a8492181␟2827984212740060090:Read more`;
+    I18N_4 = "Read more";
 }
 function ProjectsCarouselComponent_li_4_Template(rf, ctx) { if (rf & 1) {
     _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵelementStart"](0, "li", 11);
@@ -2864,7 +2864,7 @@ if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
     I18N_0 = MSG_EXTERNAL_projects$$SRC_APP_PROJECTS_PROJECTS_COMPONENT_TS_1;
 }
 else {
-    I18N_0 = $localize `:nav@@projects␟d2a7deb7096cada2c3177157652680fe7e6de0ed␟7091571651222742304:Projects`;
+    I18N_0 = "Projects";
 }
 var I18N_2;
 if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
@@ -2875,7 +2875,7 @@ if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
     I18N_2 = MSG_EXTERNAL_previous$$SRC_APP_PROJECTS_PROJECTS_COMPONENT_TS_3;
 }
 else {
-    I18N_2 = $localize `:exp.nav@@previous␟680d5c75b7fd8d37961083608b9fcdc4167b4c43␟4452427314943113135:Previous`;
+    I18N_2 = "Previous";
 }
 const _c4 = ["title", I18N_2];
 var I18N_5;
@@ -2887,7 +2887,7 @@ if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
     I18N_5 = MSG_EXTERNAL_previous$$SRC_APP_PROJECTS_PROJECTS_COMPONENT_TS_6;
 }
 else {
-    I18N_5 = $localize `:exp.nav@@previous␟680d5c75b7fd8d37961083608b9fcdc4167b4c43␟4452427314943113135:Previous`;
+    I18N_5 = "Previous";
 }
 var I18N_7;
 if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
@@ -2898,7 +2898,7 @@ if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
     I18N_7 = MSG_EXTERNAL_next$$SRC_APP_PROJECTS_PROJECTS_COMPONENT_TS_8;
 }
 else {
-    I18N_7 = $localize `:exp.nav@@next␟f732c304c7433e5a83ffcd862c3dce709a0f4982␟3885497195825665706:Next`;
+    I18N_7 = "Next";
 }
 var I18N_9;
 if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
@@ -2909,7 +2909,7 @@ if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
     I18N_9 = MSG_EXTERNAL_next$$SRC_APP_PROJECTS_PROJECTS_COMPONENT_TS_10;
 }
 else {
-    I18N_9 = $localize `:exp.nav@@next␟f732c304c7433e5a83ffcd862c3dce709a0f4982␟3885497195825665706:Next`;
+    I18N_9 = "Next";
 }
 const _c11 = ["title", I18N_9];
 var I18N_12;
@@ -2921,7 +2921,7 @@ if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
     I18N_12 = MSG_EXTERNAL_synopsis$$SRC_APP_PROJECTS_PROJECTS_COMPONENT_TS_13;
 }
 else {
-    I18N_12 = $localize `:projects@@synopsis␟5c868157282cdf081f60feec20aafd79b2f1bdb9␟1286313602751382659:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vulputate sagittis velit, eget scelerisque arcu semper finibus.`;
+    I18N_12 = "In countless times, an article or a simple piece of information saved me hours of research, so whenever is possible, I try to do my humble contributions:";
 }
 const _c14 = function (a0) { return { "disabled": a0 }; };
 class ProjectsComponent extends _core_shared_abstract_swipe_section__WEBPACK_IMPORTED_MODULE_2__["AbstractSwipeSection"] {
@@ -3537,7 +3537,7 @@ if (typeof ngI18nClosureMode !== "undefined" && ngI18nClosureMode) {
     I18N_0 = MSG_EXTERNAL_hello$$SRC_APP_WELCOME_WELCOME_DIALOG_WELCOME_DIALOG_COMPONENT_TS_1;
 }
 else {
-    I18N_0 = $localize `:dialog@@hello␟8b806f06ee7d72d91e642c7e6b94c064218606f3␟5221938886751387620:Hello!`;
+    I18N_0 = "Hello!";
 }
 const _c2 = function () { return ["Meu nome \u00E9 Guilherme.", "Seja bem-vindo(a) ao meu resumo online.", "Abaixo, voc\u00EA me conhecer\u00E1 melhor... :)"]; };
 const _c3 = function (a1) { return { "language": "pt", "phrases": a1 }; };
