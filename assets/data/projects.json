@@ -1,0 +1,71 @@
+[
+    {
+        "thumbnail": "../../assets/projects/covid19Rt.png",
+        "http": "https://github.com/SusmithBarigidad/covid-19-Rt-calculations-India",
+        "date": "01-15-2019",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "Covid-19 Rt Calculations India",
+                "description": "When the lockdowns be lifted? Lockdowns have been successful in reducing but have caused enormous damage to economies. To answer this question, we need a metric to take decision as to when to lift them. <b>Rt - effective reproduction number </b>or average number of people to whom an infected person passes on the virus in a population. The value of helps us in two ways: (1) It helps us understand how effective our measures have been controlling an outbreak (2) it gives us information about whether we should increase or reduce restrictions based on our competing goals of economic prosperity"
+            },
+            {
+                "language": "pt",
+                "title": "Covid-19 Rt Calculations India",
+                "description": "Lá estavam no mural, inúmeras vagas para desenvolvedor web. E ao mesmo tempo, haviam <b>12,7 Milhões de compatriotas desempregados</b> e tais vagas em aberto ficaram matutando em minha cabeça. De volta à minha casa, me recordo de um curso gratuito, disponibilizado pelo renomado <i>Bob Tabor (Senior Program Manager na Microsoft)</i>, presente na Microsoft Virtual Academy."
+            }
+        ]
+    }
+	,{
+        "thumbnail": "../../assets/projects/p2p.png",
+        "http": "https://github.com/SusmithBarigidad/PeerToPeerChatSystem",
+        "date": "06-05-2021",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "Peer-Peer Chat System",
+                "description": "Implemented the knowledge gained about <b>distributed systems</b> into building a peer-to-peer chat system. Distributed system algorithms employed to address <i>fault tolerance, performance, scalability, consistency and concurrency</i>. A full explanation, with real test cases and Unit Tests are waiting for you."
+            },
+            {
+                "language": "pt",
+                "title": "A fórmula de matriz 2D anti-deslocamento.",
+                "description": "Você já pensou na <b>relação matemática</b> entre as<i> colunas</i> e as <i>linhas</i> de uma matriz bidimensional <i>(matriz 2d)</i>? Essa estrutura de dados oculta uma <b>fórmula de localização de dados</b> que me ajudou a evitar a <i>complexidade de tempo de O(n²)</i>, que é um cenário péssimo, transformando-a em uma <i>complexidade do tempo constante - O(1)</i>. Uma explicação completa, com casos de teste reais e testes de unidade, está esperando por você."
+            }
+        ]
+    },
+   
+    {
+        "thumbnail": "../../assets/projects/facemask.jpg",
+        "http": "https://github.com/SusmithBarigidad/Face-Mask-Detection-real-time",
+        "date": "07-19-2020",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "Face Mask Detection",
+                "description": "In this work, a deep learning based model for <b>detecting masks</b> over faces in public place to curtail community spread of coronavirus. Real time solution uses <b>OpenCV</b> and <b>MobileNet</b> architecture to detect the face mask."
+            },
+            {
+                "language": "pt",
+                "title": "Navegação por Item no Mapa para Android - <i>Componente de código aberto</i>.",
+                "description": "Para uma ótima experiência do usuário, o uso de mapas junto com a lista ordenada é usado com muita frequência em aplicativos móveis. Este artigo apresenta um aplicativo de código aberto para Android que fornece um componente totalmente funcional."
+            }
+        ]
+    },
+    {
+        "thumbnail": "../../assets/projects/HRAnalytics.png",
+        "http": "https://github.com/SusmithBarigidad/AV-HR-Analytics",
+        "date": "04-28-2020",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "Analytics Vidhya HR Analytics",
+                "description": "<b>HR analytics</b> is revolutionising the way human resources departments operate, leading to <b>higher efficiency</b> and better results overall. Human resources has been using analytics for years. However, the collection, processing and analysis of data has been largely manual, and given the nature of human resources dynamics and HR KPIs, the approach has been constraining HR. Therefore, it is surprising that HR departments woke up to the utility of machine learning so late in the game. Here is an opportunity to try predictive analytics in identifying the employees most likely to get promoted."
+            },
+            {
+                "language": "pt",
+                "title": "Pesquisa por distância geográfica com MySQL e PHP.",
+                "description": "Atualmente, a <b>geolocalização</b> é essencial para a maioria das atividades diárias básicas. Quem nunca perguntou ao Google onde está o mercado mais próximo? Neste artigo, mostro um exemplo prático de como criar uma <i>consulta SQL</i> a qual faz uma pesquisa geolocalizada com base em um raio de abrangência e um ponto geográfico fixo."
+            }
+        ]
+    }
+]
