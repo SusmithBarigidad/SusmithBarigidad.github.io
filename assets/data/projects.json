@@ -15,6 +15,40 @@
                 "description": "Lá estavam no mural, inúmeras vagas para desenvolvedor web. E ao mesmo tempo, haviam <b>12,7 Milhões de compatriotas desempregados</b> e tais vagas em aberto ficaram matutando em minha cabeça. De volta à minha casa, me recordo de um curso gratuito, disponibilizado pelo renomado <i>Bob Tabor (Senior Program Manager na Microsoft)</i>, presente na Microsoft Virtual Academy."
             }
         ]
+    },
+	{
+        "thumbnail": "../../assets/projects/retention.png",
+        "http": "",
+        "date": "04-25-2020",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "Customer Retention",
+                "description": "Developed an R shiny app library to simulate acquisitions/retention scenarios at a cohort level for customer science team for the leading retail company. This is done by looking at key customer retention metrics like customer lifetime value and churn rate."
+            },
+            {
+                "language": "pt",
+                "title": "Pesquisa por distância geográfica com MySQL e PHP.",
+                "description": "Atualmente, a <b>geolocalização</b> é essencial para a maioria das atividades diárias básicas. Quem nunca perguntou ao Google onde está o mercado mais próximo? Neste artigo, mostro um exemplo prático de como criar uma <i>consulta SQL</i> a qual faz uma pesquisa geolocalizada com base em um raio de abrangência e um ponto geográfico fixo."
+            }
+        ]
+    },
+    {
+        "thumbnail": "../../assets/projects/wafer.jpg",
+        "http": "",
+        "date": "04-25-2019",
+        "internationalizations": [
+            {
+                "language": "en",
+                "title": "Wafer Defect Classification",
+                "description": "In the semiconductor manufacturing, wafer maps are used to visualize defect patterns and identify potential process issues. Then a wafer map is created based on the detected abnormal locations. One of the main purposes for wafer map visualization is to monitor any abnormal defect signatures and respond to process problems quickly. Once wafer map libraries are created with corresponding root causes, defect pattern similarities between wafers could be a good indication of the common root causes and this knowledge base can be used to solve problems.Wafer maps provide important information for engineers in identifying root causes of die failures during semiconductor manufacturing processes. We present a method for wafer map defect pattern classification and image retrieval using convolutional neural networks (CNNs). Twenty eight thousand six hundred synthetic wafer maps for 12 defect classes are generated theoretically and used for CNN training, validation, and testing. The overall classification accuracy for the 6600 test dataset is 98.7%"
+            },
+            {
+                "language": "pt",
+                "title": "Pesquisa por distância geográfica com MySQL e PHP.",
+                "description": "Atualmente, a <b>geolocalização</b> é essencial para a maioria das atividades diárias básicas. Quem nunca perguntou ao Google onde está o mercado mais próximo? Neste artigo, mostro um exemplo prático de como criar uma <i>consulta SQL</i> a qual faz uma pesquisa geolocalizada com base em um raio de abrangência e um ponto geográfico fixo."
+            }
+        ]
     }
 	,{
         "thumbnail": "../../assets/projects/p2p.png",
