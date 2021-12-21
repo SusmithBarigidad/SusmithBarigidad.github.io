@@ -3518,7 +3518,7 @@ else {
 }
 const _c2 = function () { return ["Meu nome \u00E9 Guilherme.", "Seja bem-vindo(a) ao meu resumo online.", "Abaixo, voc\u00EA me conhecer\u00E1 melhor... :)"]; };
 const _c3 = function (a1) { return { "language": "pt", "phrases": a1 }; };
-const _c4 = function () { return ["My name is Susmith.", "A curious, passionate and driven about technology ", " Want to know more about me... :)"]; };
+const _c4 = function () { return ["My name is Susmith.", "A curious, passionate and driven individua", " Want to know more about me... :)"]; };
 const _c5 = function (a1) { return { "language": "en", "phrases": a1 }; };
 const _c6 = function (a0, a1) { return [a0, a1]; };
 class WelcomeDialogComponent {
